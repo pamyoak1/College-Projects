@@ -1,2 +1,2 @@
-# College-Projects
-a few projects I  did in college
+Small candy shop (college project) 
+Helped with the designing and coding with other teammates.
